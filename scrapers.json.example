@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Nest Hub Max Cost",
+      "url": "https://store.google.com/us/product/google_nest_hub_max?hl=en-US",
+      "query": "//div[@class='hidden-xs bar-container background-white']//div[@class='is-was-price-text']//span[@class='is-price']"
+    }
+  ]
+}
